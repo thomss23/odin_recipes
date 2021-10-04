@@ -1,0 +1,44 @@
+#recipes {
+    background-color: rgb(112, 165, 27);
+}
+
+.option a {
+    color: rgb(62, 117, 165);
+}
+
+body {
+    background-color: bisque;
+}
+
+.lasagna {
+    color: rgb(98, 136, 33);
+}
+
+.header {
+    font-family: "Times New Roman", sans-serif;
+    background-color: darkorange;
+}
+
+.description {
+    font-size: 25px;
+    color: rgb(30, 156, 98);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ul li {
+    font-size: 25px;
+    color: rgb(30, 156, 98);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol li {
+    font-size: 25px;
+    color: rgb(30, 156, 98);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
